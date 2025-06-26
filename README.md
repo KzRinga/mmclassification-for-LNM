@@ -6,6 +6,12 @@
 
 
 ## How to use our model?
-Our code base on mmcls and mmdet, please follow the guide in [mmcls](https://github.com/open-mmlab/mmpretrain) and [mmdet](https://github.com/open-mmlab/mmdetection)
+Our code base on mmcls and mmdet, if needed,please follow the detail guide in [mmcls](https://github.com/open-mmlab/mmpretrain) and [mmdet](https://github.com/open-mmlab/mmdetection)
+
+```
+python tools/train.py \
+/path/to/your/config.py \
+--work-dir /path/to/save \
+```
 
 
