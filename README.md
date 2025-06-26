@@ -2,8 +2,10 @@
 
 ## Overview
 
-![image](https://github.com/KzRinga/mmclassification-for-LNM/blob/main/dbe6a32dd5a2a7868f1782e84c7d0ed.jpg)
+![image](https://github.com/KzRinga/mmclassification-for-LNM/blob/main/image.jpg)
 
 
 ## How to use our model?
 Our code base on mmcls and mmdet, please follow the guide in [mmcls](https://github.com/open-mmlab/mmpretrain) and [mmdet](https://github.com/open-mmlab/mmdetection)
+
+
