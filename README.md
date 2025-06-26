@@ -2,7 +2,7 @@
 
 ## Overview
 
-![image](https://github.com/KzRinga/mmclassification-for-LNM/blob/main/image.jpg)
+![image](https://github.com/KzRinga/mmclassification-for-LNM/blob/main/image.png)
 
 
 ## How to use our model?
