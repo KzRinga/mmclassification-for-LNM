@@ -8,6 +8,7 @@
 ## How to use our model?
 Our code base on mmcls and mmdet, if needed,please follow the detail guide in [mmcls](https://github.com/open-mmlab/mmpretrain) and [mmdet](https://github.com/open-mmlab/mmdetection)
 
+You can customize the code below to start training：
 ```
 python tools/train.py \
 /path/to/your/config.py \
